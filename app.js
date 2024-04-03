@@ -74,7 +74,7 @@ let firstElement = randomList.shift();
 let productName = "iphone 12";
 
 const phone = {
-	name: productName,
+	name: "iphone 12",
 	price: 200,
 	colors: ["red", "black", "white"],
 	isAvailable: true,
